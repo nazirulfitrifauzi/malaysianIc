@@ -1,0 +1,20 @@
+{
+    "name": "nazfitri/malaysian-ic",
+    "description": "Simple package to extract basic info from IC",
+    "autoload": {
+        "psr-4": {
+            "Nazfitri\\MalaysianIc\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nazirul Fitri",
+            "email": "nazirulfitrifauzi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    }
+}
